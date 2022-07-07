@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 cd
+=======
+cd /root
+>>>>>>> 00bc838 (initial commit)

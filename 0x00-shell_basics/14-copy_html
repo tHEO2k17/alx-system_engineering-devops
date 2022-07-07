@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 cp -r -u *.html ..
+=======
+cp -rua *.html ../
+>>>>>>> 00bc838 (initial commit)
